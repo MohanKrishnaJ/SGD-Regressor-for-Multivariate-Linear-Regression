@@ -29,8 +29,8 @@ Iterative Training
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: S.L.Narasimha Reddy
-RegisterNumber: 212223040214
+Developed by: MOHAN KRUSHNA J
+RegisterNumber: 212223220060
 
 
 import numpy as np
